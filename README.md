@@ -8,4 +8,4 @@ las dependencias del proyecto
 ejecutar el proyecto web
 3. en un navegador web ir a la URL localhost:3000 y podra ver
 el proyecto en ejecución
-4. en enlace de heroku del proyecto es:
+4. en enlace de heroku del proyecto es: https://trabajo-semana-3.herokuapp.com/
